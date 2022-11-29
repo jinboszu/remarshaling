@@ -1,4 +1,7 @@
-# Copyright (c) 2021 Bo Jin <jinbostar@gmail.com>
+# This program is part of the paper "Inbound container remarshaling
+# problem in an automated container terminal".
+#
+# Copyright (c) 2022 Bo Jin <jinbostar@gmail.com>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
